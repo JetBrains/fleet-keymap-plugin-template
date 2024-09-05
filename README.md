@@ -10,9 +10,7 @@
 
 - TODO: [Keymap Documentation]<!--TODO: [fleet:keymap-documentation]-->
 - [Fleet Plugin SDK Documentation][fleet:sdk-documentation]
-- [Examples: Fleet Theme plugin][fleet:theme-plugin-example]
 
 [fleet:website]: https://www.jetbrains.com/fleet/
 [fleet:keymap-documentation]: TODO
-[fleet:keymap-plugin-example]: https://github.com/JetBrains/fleet-sdk-gradle-plugin/tree/main/examples/keymap-plugin
 [fleet:sdk-documentation]: https://github.com/JetBrains/fleet-sdk-gradle-plugin
